@@ -1,0 +1,13 @@
+E:\Users\Beastcake\Desktop\WCTC\Intro to Programming with C#\Class\Rider Code\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.exe
+E:\Users\Beastcake\Desktop\WCTC\Intro to Programming with C#\Class\Rider Code\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.deps.json
+E:\Users\Beastcake\Desktop\WCTC\Intro to Programming with C#\Class\Rider Code\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.json
+E:\Users\Beastcake\Desktop\WCTC\Intro to Programming with C#\Class\Rider Code\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.runtimeconfig.dev.json
+E:\Users\Beastcake\Desktop\WCTC\Intro to Programming with C#\Class\Rider Code\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.dll
+E:\Users\Beastcake\Desktop\WCTC\Intro to Programming with C#\Class\Rider Code\Final Project\Final Project\bin\Debug\netcoreapp3.1\Final Project.pdb
+E:\Users\Beastcake\Desktop\WCTC\Intro to Programming with C#\Class\Rider Code\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.csprojAssemblyReference.cache
+E:\Users\Beastcake\Desktop\WCTC\Intro to Programming with C#\Class\Rider Code\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfoInputs.cache
+E:\Users\Beastcake\Desktop\WCTC\Intro to Programming with C#\Class\Rider Code\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.AssemblyInfo.cs
+E:\Users\Beastcake\Desktop\WCTC\Intro to Programming with C#\Class\Rider Code\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.csproj.CoreCompileInputs.cache
+E:\Users\Beastcake\Desktop\WCTC\Intro to Programming with C#\Class\Rider Code\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.dll
+E:\Users\Beastcake\Desktop\WCTC\Intro to Programming with C#\Class\Rider Code\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.pdb
+E:\Users\Beastcake\Desktop\WCTC\Intro to Programming with C#\Class\Rider Code\Final Project\Final Project\obj\Debug\netcoreapp3.1\Final Project.genruntimeconfig.cache
